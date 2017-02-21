@@ -1,6 +1,15 @@
+
 ---
-published: false
+layout: post
+title: "Global Game Jam 2016"
+date: 2016-01-23
+categories:
+  - Games
+description: 
+image: {{site.baseurl}}/_posts/Capture.PNG
+image-sm: {{site.baseurl}}/_posts/Capture.PNG
 ---
+
 ## Global Game Jam 2016
 
 ![Raceline Level 1]({{site.baseurl}}/_posts/Capture.PNG)
