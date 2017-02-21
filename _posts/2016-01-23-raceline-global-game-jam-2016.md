@@ -11,7 +11,7 @@ image-sm: /_posts/Capture.PNG
 
 ## Global Game Jam 2016
 
-![Raceline Level 1]({{site.baseurl}}/_posts/Capture.PNG)
+![Raceline Level 1](/_posts/Capture.PNG)
 
 
 From January 20th to January 22nd 2016 I participated in the Global Game Jam. Hosted here in Canberra at the AIE.
