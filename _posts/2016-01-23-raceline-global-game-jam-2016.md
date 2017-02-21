@@ -6,8 +6,8 @@ date: 2016-01-23
 categories:
   - Games
 description: 
-image: {{site.baseurl}}/_posts/Capture.PNG
-image-sm: {{site.baseurl}}/_posts/Capture.PNG
+image: /_posts/Capture.PNG
+image-sm: /_posts/Capture.PNG
 ---
 
 ## Global Game Jam 2016
