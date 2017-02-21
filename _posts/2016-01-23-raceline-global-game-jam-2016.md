@@ -6,6 +6,7 @@ categories:
   - Games
 description: 
 image: https://raw.githubusercontent.com/RandyMustache/RandyMustache.github.io/master/_posts/Capture.PNG
+image-sm: https://raw.githubusercontent.com/RandyMustache/RandyMustache.github.io/master/_posts/Capture.PNG
 
 ---
 
