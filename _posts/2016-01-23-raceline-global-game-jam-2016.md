@@ -6,7 +6,7 @@ categories:
   - Games
 description: 
 image: /_posts/Capture.PNG
-image-sm: /_posts/Capture.PNG
+
 ---
 
 ## Global Game Jam 2016
