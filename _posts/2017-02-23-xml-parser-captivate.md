@@ -5,14 +5,14 @@ date: 2017-02-23
 categories:
   - Captivate
 description: 
-image: _images/2017-02-23.png
-image-sm: _images/2017-02-23.png
+image: 2017-02-23.png
+image-sm: 2017-02-23.png
 
 ---
 
 ## XML Parser for Captivate
 
-![Screenshot of XML Parser](_images/2017-02-23.png)
+![Screenshot of XML Parser](2017-02-23.png)
 
 Let me start off by saying, forgive the boring name.
 
@@ -23,7 +23,7 @@ Basically, we are provided with Captivate development files, that include all th
 The not so fun part is that we need the text within the development files to be separated from Captivate, and placed into another tool for our final delivery. Captivate provides several options for exporting text, but if you've used them before, they are quite awful. 
 
 Especially considering our Captivate workflow works like this: 
-![Captivate TTS Dialogue](_images/tts.PNG)
+![Captivate TTS Dialogue](tts.PNG)
 
 As you can see, we often work with multiple lines of captions for a single slide, and then we break out those caption lines into a separate field to work on the text to speech. This lets us use VTML and the likes to control text to speech speed and pronunciation, without affecting the final captions.
 
