@@ -5,8 +5,8 @@ date: 2017-02-23
 categories:
   - Web Development
 description: 
-image: /_images/Browsersync.png
-image-sm: /_images/Artboard 1.png
+image: Browsersync.png
+image-sm: Artboard 1.png
 
 ---
 
