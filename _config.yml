@@ -21,7 +21,7 @@ social:
   github: https://github.com/RandyMustache
 
 # Build settings
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.mdm", "node_modules", "gulpfile.js"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 

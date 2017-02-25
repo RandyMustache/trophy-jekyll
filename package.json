@@ -1,0 +1,30 @@
+{
+  "name": "randymustache",
+  "version": "1.0.0",
+  "description": "My Personal Blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandyMustache/RandyMustache.github.io.git"
+  },
+  "keywords": [
+    "blog",
+    "jekyll",
+    "gh"
+  ],
+  "author": "Mitchell Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RandyMustache/RandyMustache.github.io/issues"
+  },
+  "homepage": "https://github.com/RandyMustache/RandyMustache.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.1",
+    "lodash": "^4.17.4"
+  }
+}
