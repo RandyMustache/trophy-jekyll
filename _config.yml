@@ -2,6 +2,7 @@
 title: "Mitchell Smith"
 email: "mitchellsletterbox@outlook.com"
 baseurl: ""
+url: "mitchellsmith.net"
 paginate: 5
 description: "CBT Developer // Web Development // Graphics"
 paginate_path: "/blog/page-:num"
@@ -10,7 +11,7 @@ google_analytics:
 # SEO settings
 title: Mitchell Smith
 description: A home for my projects and musings
-url: http://mitchellsmith.net
+
 twitter_username: 
 default_img: 
 
