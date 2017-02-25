@@ -19,3 +19,5 @@ I've now set this site up to live reload on my development machines with Browser
 Now I can write a post (like this one) on my local machine, watch changes as they happen, and upload only when I'm completely satisfied with the work.
 Personally, I find this workflow much better.
 XX
+
+XX
