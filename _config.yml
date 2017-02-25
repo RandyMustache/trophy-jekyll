@@ -1,7 +1,7 @@
 # Site settings
 title: "Mitchell Smith"
 email: "mitchellsletterbox@outlook.com"
-baseurl: ""
+baseurl: "http:mitchellsmith.net"
 url: "mitchellsmith.net"
 paginate: 5
 description: "CBT Developer // Web Development // Graphics"
@@ -10,15 +10,14 @@ google_analytics:
 
 # SEO settings
 title: Mitchell Smith
-description: A home for my projects and musings
-
+description: "A home for my projects and musings"
 twitter_username: 
 default_img: 
 
 # Profile settings
 name: Mitchell Smith
 profile_img: 
-profile: "CBT Developer // Web Development // Graphics""
+profile: "CBT Developer // Web Development // Graphics"
 social:
   github: https://github.com/RandyMustache
 
