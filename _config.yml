@@ -3,29 +3,27 @@ title: "Mitchell Smith"
 email: "mitchellsletterbox@outlook.com"
 baseurl: ""
 paginate: 5
-description: "CBT Developer // Web Development // Graphics"
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
 title: Mitchell Smith
 description: A home for my projects and musings
-url: http://mitchellsmith.net
+url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: Mitchell Smith
+name: 
 profile_img: 
-profile: "CBT Developer // Web Development // Graphics"
+profile: 
 social:
   github: https://github.com/RandyMustache
 
 # Build settings
-include: ["_catagories"]
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.mdm", "node_modules", "gulpfile.js"]
 markdown: kramdown
-permalink: /:catagories/:title/
+permalink: /:year/:month/:day/:title/
 
 # Sass
 sass:
