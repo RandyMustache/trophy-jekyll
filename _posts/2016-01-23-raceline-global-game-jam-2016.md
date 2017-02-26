@@ -12,7 +12,7 @@ image-sm: https://raw.githubusercontent.com/RandyMustache/RandyMustache.github.i
 
 ## Global Game Jam 2016
 
-![Raceline Level 1](Capture.PNG)
+![Raceline Level 1](/assets/images/Capture.PNG)
 
 
 From January 20th to January 22nd 2016 I participated in the Global Game Jam. Hosted here in Canberra at the AIE.
