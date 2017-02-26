@@ -2,6 +2,7 @@
 title: "Mitchell Smith"
 subtitle: "mitchellsmith.net"
 email: "mitchellsletterbox@outlook.com"
+baseurl: http://mitchellsmith.net
 url: http://mitchellsmith.net
 paginate: 5
 paginate_path: "/blog/page-:num"
