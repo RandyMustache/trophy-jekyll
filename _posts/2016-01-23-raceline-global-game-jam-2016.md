@@ -5,8 +5,8 @@ date: 2016-01-23
 categories:
   - Games
 description: 
-image: https://raw.githubusercontent.com/RandyMustache/RandyMustache.github.io/master/assets/images/Capture.PNG
-image-sm: https://raw.githubusercontent.com/RandyMustache/RandyMustache.github.io/master/assets/images/Capture.PNG
+image: Capture.PNG
+image-sm: Capture.PNG
 
 ---
 
