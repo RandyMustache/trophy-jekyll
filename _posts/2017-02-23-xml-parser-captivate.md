@@ -5,7 +5,7 @@ date: 2017-02-23
 categories:
   - Captivate
 description: 
-image: 2017-02-23-xml.png
+image: 2017-02-23-xml.jpg
 
 
 ---
