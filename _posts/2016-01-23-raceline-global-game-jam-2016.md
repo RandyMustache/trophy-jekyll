@@ -4,6 +4,8 @@ title: "Global Game Jam 2016"
 date: 2016-01-23
 categories:
   - Games
+  - Development
+  - Web
 description: 
 image: Capture.PNG
 image-sm: Capture.PNG
