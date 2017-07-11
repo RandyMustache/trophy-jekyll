@@ -14,13 +14,10 @@ layout: default
 
   <div>
     <header>
-      <ul class="tabs">
-        <li class="tabs__item">Posts</li>
-        <li class="tabs__item">Archive</li>
-      </ul>
+      <h1> Posts </h1>
     </header>
 
-    <div class="tab">
+
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in paginator.posts %}
           <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
@@ -47,8 +44,8 @@ layout: default
       {% endif %}
 
       
-    </div>
-    {% include archive-link.html %}
+
+
 
 
   </div>
