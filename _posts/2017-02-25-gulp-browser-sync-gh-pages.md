@@ -3,7 +3,8 @@ layout: post
 title: "Gulp and Browser Sync with Jekyll and GitHub Pages"
 date: 2017-02-23
 categories:
-  - Web Development
+  - Web
+  - Development
 description: 
 image: browsersync_lg.png
 image-sm: browsersync_lg.png
